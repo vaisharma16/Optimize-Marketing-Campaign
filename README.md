@@ -9,7 +9,7 @@
 - Conclusion
 
 ## Introduction
-Welcome to the **"Optimizing Marketing Strategies with Multiple Linear Regression"** project. This tutorial focuses on leveraging Python to analyze marketing campaigns using multiple linear regression and correlation analysis. The goal is to create a data-driven strategy that reveals the most impactful marketing tactics influencing sales, ultimately leading to a comprehensive ROI table for informed decision-making.
+Welcome to the **"Optimizing Marketing Strategies with Multiple Linear Regression"** project. This project focuses on leveraging Python to analyze marketing campaigns using multiple linear regression and correlation analysis. The goal is to create a data-driven strategy that reveals the most impactful marketing tactics influencing sales, ultimately leading to a comprehensive ROI table for informed decision-making.
 
 ### Background of the Dataset
 The dataset includes three types of hospital accounts: big, medium, and small hospitals. It encompasses sales data from various marketing channels such as phone calls, emails, flyers, and sales visits.
